@@ -28,7 +28,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a 
 href="https://www.python.org/" target="_blank"> <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a 
 href="https://www.r-project.org/" target="_blank"> <img 
 src="https://www.r-project.org/Rlogo.png" alt="Rlogo" width="40" height="40"/> </a><a 
 href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>  <a 
