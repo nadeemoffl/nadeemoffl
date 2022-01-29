@@ -15,6 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/nadeemoffl/" target="_blank"> <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a> <a   
 <a href="https://www.linkedin.com/in/nadeemoffl/" target="_blank"><i class="icon fa-linkedin"> </a>
 <a href="https://linkedin.com/in/nadeemoffl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nadeemoffl" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nadeemoffl/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nadeemoffl" height="30" width="40" /></a>
@@ -27,7 +29,8 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org/" target="_blank"> <img 
+<p align="left"> <a 
+href="https://www.python.org/" target="_blank"> <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a 
 href="https://www.r-project.org/" target="_blank"> <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-project-original.svg" alt="r-project" width="40" height="40"/> </a><a 
