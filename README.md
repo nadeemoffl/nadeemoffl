@@ -23,7 +23,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/medium/medi
 <a href="https://www.instagram.com/nadeemoffll/" target="_blank"> <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="instagram" width="40" height="40"/> </a> <a                   
 
-                                                                                                                                               <a <a href="https://twitter.com/Nadeemoffll" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@Nadeemoffll" height="30" width="40" /></a>
+                                                                                                                                               <a <a href="https://twitter.com/Nadeemoffll" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/@internetarchive/icon-twitter@1.3.2/twitter.svg" alt="@Nadeemoffll" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nadeemoffl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="nadeemoffl" height="30" width="40" /></a>
 
 </p>
