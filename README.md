@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nadeemoffl/" target="_blank"><i class="icon fa-linkedin">&nbsp;</i>LinkedIn /></a>
+<a href="https://www.linkedin.com/in/nadeemoffl/" target="_blank"><i class="icon fa-linkedin"> </a>
 <a href="https://linkedin.com/in/nadeemoffl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nadeemoffl" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nadeemoffl/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nadeemoffl" height="30" width="40" /></a>
 <a href="https://medium.com/@nadeemm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@nadeemm" height="30" width="40" /></a>  
