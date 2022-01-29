@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nadeemoffl" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="nadeemoffl" height="30" width="40" /></a>
-<a href="https://www.facebook.com/nadeemoffl/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nadeemoffl" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nadeemoffl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="nadeemoffl" height="30" width="40" /></a>
 <a href="https://medium.com/@nadeemm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@njnusrat53" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nadeemoffll/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@nadeemoffll" height="30" width="40" /></a>
 <a href="https://twitter.com/Nadeemoffll" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@Nadeemoffll" height="30" width="40" /></a>
