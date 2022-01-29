@@ -1,6 +1,3 @@
-- 💞️ I’m looking to collaborate on Data Scientists
-- 📫 How to reach me mail -> nadeemoffl@gmail.com 
-
 <h1 align="center">Hi 👋, I'm Nadeem</h1>
 <h3 align="center">A passionate Data Scientist from Bangalore</h3>
 
